@@ -1,0 +1,30 @@
+body #header{
+    text-align: center;
+}
+
+#game{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 10%;
+}
+
+#player-choices button{
+    display: block;
+    margin-top: 50%;
+}
+
+#scorecard #sc-title{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#tracker #player-section,#cpu-section{
+    display: block;
+    margin-top: 50%;
+}
+
+#choice-title{
+    text-align: center;
+    text-decoration: underline;
+}
